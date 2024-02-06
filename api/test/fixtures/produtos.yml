@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  descricao: MyString
+  preco: 1
+  qtd_estoque: 1
+
+two:
+  descricao: MyString
+  preco: 1
+  qtd_estoque: 1
